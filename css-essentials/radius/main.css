@@ -2,11 +2,14 @@ div {
     width: 100px;
     height: 100px;
     border: 1px solid red;
-    
+    border-radius: 100%;
+    background-image: url("../../essential-tags/exercises/img/puppy.jpg");
+    background-size: cover;
 }
 
 img {
-    border: 30px groove orange;
+    border: 10px groove orange;
+    border-radius: 100%;
 }
 .dogone {
     border: 30px dashed orange;
