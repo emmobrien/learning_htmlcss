@@ -1,0 +1,13 @@
+div {
+    width:  400px;
+    height: 400px;
+    border: 40px dashed red;
+    margin: 20px auto;
+    background-image: url("rope.jpg");
+    /* background-size: cover;
+    background-repeat: no-repeat; */
+}
+
+.second {
+    box-sizing: border-box;
+}
